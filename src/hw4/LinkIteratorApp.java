@@ -180,6 +180,7 @@ public class LinkIteratorApp {
         System.out.println("=========================================");
         itr.getCurrent().display();
 
+
     }
 
 }
